@@ -1,1 +1,2 @@
-# DWC_HTML_chapter9_exercise
+# DWC_HTML_chapter10_exercise
+# DWC_HTML_chapter9_exerciseからクローンしてきました。

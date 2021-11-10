@@ -1,2 +1,2 @@
 # DWC_HTML_chapter10_exercise
-DWC_HTML_chapter9_exerciseからクローンしてきました。
+DWC_HTML_chapter9_exerciseからクローンしてきました。テスト
